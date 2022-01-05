@@ -6,7 +6,7 @@ The motivation behind this project was to dip my feet into the personal project 
 tutorial and while it doesn't solve any apparent problems, it is somewhat fun and nostalgic to play with.
 
 I newly learned a handful of techniques and tools including how to utilize a visual game panel, how to create and manipulate objects to seemingly move and grow, and how to
-use key events to receive user input and produce snake direction output, and much much more.
+use key events to receive user input and change snake direction output, and much much more.
 
 To run the program, simply download the source code along with all the necessary accessory files and run the program. Hope you have fun with it as much as I had
 coding it!
